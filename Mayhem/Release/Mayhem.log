@@ -1,0 +1,7 @@
+﻿  Gui.cpp
+C:\Users\cocai\source\repos\Mayhem\Cheat\Gui.cpp(61,21): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+  All 1303 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mayhem.vcxproj -> C:\Users\cocai\source\repos\Mayhem\Release\Mayhem.exe
